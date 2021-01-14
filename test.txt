@@ -1,0 +1,8 @@
+porca vacca
+vacca porca
+vorca pacca
+oooooooo
+std::cout << "Stai zitto" << std::endl
+oooooooo
+copia incolla
+copia incolla

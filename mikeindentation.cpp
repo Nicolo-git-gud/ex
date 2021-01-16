@@ -13,11 +13,11 @@ int main(int argc, char *argv[])
     int graffa = 0;
     while (f.good())
     {
-       
+
         if (c == '{')
             graffa++;
         if (c == '}')
-        graffa --;
+            graffa--;
         if (c == '\n')
 
         {

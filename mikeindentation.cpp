@@ -16,7 +16,8 @@ int main(int argc, char *argv[])
        
         if (c == '{')
             graffa++;
-
+        if (c == '}')
+        graffa --;
         if (c == '\n')
 
         {

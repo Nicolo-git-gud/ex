@@ -1,7 +1,7 @@
 {
 malnati
 malnatiii            siamo in alto mare
-malnatii
+      malnatii
 for(int i=0;i<m;i++){
 fdfdfdfdfdfdfdfdfdf
        fdvfdgfdgfdxx
@@ -14,4 +14,4 @@ testperee{
  te{
 }
 }
-}
+}s

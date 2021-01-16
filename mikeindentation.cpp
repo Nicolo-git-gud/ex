@@ -22,9 +22,9 @@ int main(int argc, char *argv[])
 
         {
             char d = f.get();
-            if (d == 32)
+            if (d == ' ')
             {
-                while (d == 32)
+                while (d == ' ')
                     d = f.get();
             }
 

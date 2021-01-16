@@ -34,7 +34,7 @@ int main(int argc, char *argv[])
                 std::cout << c;
                 for (int i = 0; i < graffa; i++)
 
-                    std::cout << "   ";
+                    std::cout << "    ";
                 std::cout << d;
             }
             else if (d == '{')
@@ -48,7 +48,7 @@ int main(int argc, char *argv[])
             {
                 std::cout << c;
                 for (int i = 0; i < graffa; i++)
-                    std::cout << "   ";
+                    std::cout << "    ";
 
                 std::cout << d;
             }

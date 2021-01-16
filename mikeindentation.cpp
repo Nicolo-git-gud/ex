@@ -13,12 +13,7 @@ int main(int argc, char *argv[])
     int graffa = 0;
     while (f.good())
     {
-        if (c == 32)
-        {
-            while (c == 32)
-                c = f.get();
-            std::cout << " ";
-        }
+       
         if (c == '{')
             graffa++;
 
@@ -30,7 +25,6 @@ int main(int argc, char *argv[])
             {
                 while (d == 32)
                     d = f.get();
-                std::cout << " ";
             }
 
             if (d == '}')
